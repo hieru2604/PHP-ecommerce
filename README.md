@@ -16,3 +16,5 @@ PHP Ecommerce book store using php and xampp
   - Product/Category management
   - Accounts management
   - News management
+
+(Files currently broken :< )
